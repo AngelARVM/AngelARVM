@@ -11,14 +11,15 @@ Actualmente estoy finalizando el bootcamp de [Henry](https://www.soyhenry.com/),
 <br />
 <br />
 Tecnologías: JAVASCRIPT / TYPESCRIPT / REACT / NODEJS / EXPRESSJS / SEQUELIZE / POSTGRESQL / PYTHON / HTML / CSS / BOOTSTRAP 
-
+<br />
 <br />
 Otras habilidades: Capacidad de comunicación y enseñanza / Compromiso / Autocritica y autoreflexión / Trabajo en equipo / Aprendizaje continuo / Aprendizaje colaborativo / Curiosidad  
-
+<br />
 
 - 🌱 Estoy aprendiendo a implementar TypeScript en React y tambien manejar algunas funcionalidades de  Firebase. 
 - 💬 Pregúntame acerca de JavaScript y como empezar a programar! :) 
-
+<br />
+<br />
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AngelARVM)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/angel-andres-romero/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/angelarvm1)  
 
