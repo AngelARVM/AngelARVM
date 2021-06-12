@@ -20,7 +20,6 @@ Tambien cuento con otras habilidades como: Capacidad de comunicación y enseñan
 <br />
 
 - 🌱 Estoy aprendiendo a implementar TypeScript en React y tambien manejar algunas funcionalidades de  Firebase. 
-<br />
 - 💬 Pregúntame acerca de JavaScript y como empezar a programar! :) 
 <br />
 <br />
