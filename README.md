@@ -10,16 +10,19 @@ Actualmente estoy finalizando el bootcamp de [Henry](https://www.soyhenry.com/),
 
 <br />
 <br />
-Tecnologías: JAVASCRIPT / TYPESCRIPT / REACT / NODEJS / EXPRESSJS / SEQUELIZE / POSTGRESQL / PYTHON / HTML / CSS / BOOTSTRAP 
+Entre las tecnologías que manejo se encuentran: JavaScript, TypeScript, React, NodeJs, ExpressJs, PostgreSQL, Sequelize, Jest, Python, Html, Css, Bootstrap... 
 <br />
 <br />
-Otras habilidades: Capacidad de comunicación y enseñanza / Compromiso / Autocritica y autoreflexión / Trabajo en equipo / Aprendizaje continuo / Aprendizaje colaborativo / Curiosidad  
+Tambien cuento con otras habilidades como: Capacidad de comunicación y enseñanza, Autocritica y autoreflexión, Compromiso, Trabajo en equipo, Aprendizaje continuo y colaborativo, Capacidad de organización, Capacidad de resolución de problemas y mucha Curiosidad...  
+<br />
 <br />
 <br />
 <br />
 
 - 🌱 Estoy aprendiendo a implementar TypeScript en React y tambien manejar algunas funcionalidades de  Firebase. 
+<br />
 - 💬 Pregúntame acerca de JavaScript y como empezar a programar! :) 
+<br />
 <br />
 <br />
 
