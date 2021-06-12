@@ -1,6 +1,6 @@
 ### Hola 👋, soy Angel!
 #### Soy fullstack web developer
-![Soy fullstack web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Soy fullstack web developer](https://www.titechglobal.com/wp-content/uploads/2019/07/hire-javascript-developer-banner-1024x272.jpg)
 
 Hace un par de años comencé estudiando Física y es ahí donde comencé a programar en python. Durante el 2020 se me dio la oportunidad de colaborar en un proyecto de extensión para la universidad y fue esa experiencia la que hizo que me enamore de la programación.
 
@@ -14,7 +14,7 @@ Habilidades: JAVASCRIPT /TYPESCRIPT / REACT / NODEJS / EXPRESSJS / SEQUELIZE / P
 - 💬 Pregúntame acerca de JavaScript y como empezar a programar! :) 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AngelARVM)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/angel-andres-romero//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/angelarvm1)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AngelARVM)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/angel-andres-romero/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/angelarvm1)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelARVM&show_icons=true&count_private=true)  
 
