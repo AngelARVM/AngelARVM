@@ -8,9 +8,13 @@ Este año me decidí a aprender JavaScript como nueva tecnología y me encontré
 
 Actualmente estoy finalizando el bootcamp de [Henry](https://www.soyhenry.com/), donde colaboro como Teaching Assistant acompañando a los nuevos estudiantes en su proceso de formación.
 
+<br />
+<br />
 Tecnologías: JAVASCRIPT / TYPESCRIPT / REACT / NODEJS / EXPRESSJS / SEQUELIZE / POSTGRESQL / PYTHON / HTML / CSS / BOOTSTRAP 
 
+<br />
 Otras habilidades: Capacidad de comunicación y enseñanza / Compromiso / Autocritica y autoreflexión / Trabajo en equipo / Aprendizaje continuo / Aprendizaje colaborativo / Curiosidad  
+
 
 - 🌱 Estoy aprendiendo a implementar TypeScript en React y tambien manejar algunas funcionalidades de  Firebase. 
 - 💬 Pregúntame acerca de JavaScript y como empezar a programar! :) 
