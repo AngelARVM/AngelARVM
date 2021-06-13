@@ -33,7 +33,7 @@ Tambien cuento con otras habilidades como: Capacidad de comunicación y enseñan
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAngelARVM%2Fhit-counter&count_bg=%23FF0019&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=Vistas&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Profile views](https://gpvc.arturio.dev/AngelARVM)  
+
 
 <!-- banner -->
 
