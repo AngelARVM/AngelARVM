@@ -6,7 +6,7 @@ Hace un par de años comencé estudiando Física y es ahí donde aprendí a prog
 
 Este año me decidí a aprender JavaScript como nueva tecnología y me encontré con todo un mundo a su alrededor, por lo que si bien el desafío es grande, estudio todos los días para lograrlo.
 
-Actualmente estoy finalizando el bootcamp de [Henry](https://www.soyhenry.com/), donde colaboré como Teaching Assistant acompañando a los nuevos estudiantes en su proceso de formación.
+Hace poco finalicé el bootcamp de [Henry](https://www.soyhenry.com/), donde colaboré como Teaching Assistant acompañando a los nuevos estudiantes en su proceso de formación.
 
 <br />
 <br />
