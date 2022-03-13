@@ -1,9 +1,9 @@
-## Hola 👋, soy Angel!
+## 🙋¡Hola! Soy Angel, desarrollador web Full-Stack 🚀  
 ### Fullstack web developer
 ![Soy fullstack web developer](https://imgur.com/WCfq84y.png)
 
-🙋¡Hola! Soy Angel, desarrollador web Full-Stack 🚀  
-Me gusta resolver problemas, afrontar desafíos y aprender algo nuevo todos los días.  
+
+💙 Me gusta resolver problemas, afrontar desafíos y aprender algo nuevo todos los días.  
 Tengo experiencia trabajando para una empresa de transporte, logística y almacenamiento, pensando y desarrollando soluciones y aplicaciones de uso interno.  
 
  📖 Mi formación proviene de algunos años en la universidad estudiando una carrera en Física, un bootcamp de desarrollado web full-stack, cursos en linea en distintas plataformas de aprendizaje como freecodecamp o platzi y mi constante busqueda de nuevos conocimientos como autodidacta.  
