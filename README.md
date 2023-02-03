@@ -11,14 +11,10 @@ Tengo experiencia trabajando para una empresa de transporte, logística y almace
 💻 Algunos de los lenguajes y tecnologías con las que he trabajado:  
 ▶ JavaScript / TypeScript  
 ▶ React  
-▶ Nest  
+▶ NestJs  
 ▶ GraphQL  
 ▶ Docker  
-▶ Tailwind  
-▶ Express  
-▶ Bootstrap  
-▶ Firebase  
-▶ Python  
+
 
 ❓ ¿Te interesa mi perfil? ¿Estas aprendiendo a programar y necesitas algo de mentoría? 
 
