@@ -9,7 +9,7 @@ Tengo experiencia trabajando para una empresa de transporte, logística y almace
  📖 Mi formación proviene de algunos años en la universidad estudiando una carrera en Física, un bootcamp de desarrollado web full-stack, cursos en linea en distintas plataformas de aprendizaje como freecodecamp o platzi y mi constante busqueda de nuevos conocimientos como autodidacta.  
 
 💻 Algunos de los lenguajes y tecnologías con las que he trabajado:  
-▶ JavaScript / TypeScript  
+▶ Javascript / Typescript  
 ▶ React  
 ▶ NestJs  
 ▶ GraphQL  
