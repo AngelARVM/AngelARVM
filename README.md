@@ -23,8 +23,6 @@ Tengo experiencia trabajando para una empresa de transporte, logística y almace
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelARVM&show_icons=true&count_private=true)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AngelARVM)  
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAngelARVM%2Fhit-counter&count_bg=%23FF0019&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=Vistas&edge_flat=false)](https://hits.seeyoufarm.com)
